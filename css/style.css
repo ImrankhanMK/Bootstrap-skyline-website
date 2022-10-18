@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Alkalami&display=swap');
+*{
+     font-family: 'Alkalami', serif;;
+}
+#data{
+    color: blue;
+
+}
+#carouselExampleIndicators{
+    padding: 10px;
+    margin: auto;
+}
+#map iframe{
+    height: 100%;
+}
+#logo{
+    padding-left: 10px;
+}
